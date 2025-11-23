@@ -1,8 +1,9 @@
 # AI-based Scoliosis Detection using Vision Transformer 
 # Zhanna Arystanbekova, AAI-2502M
 
+To see my code, please click to the final_project_ai_scoliosis.ipynb file above.
+
 Latex report also attached in moodle.
-To see my code, please click to the final_project_ai_scoliosis.ipynb file above
 
 # Introduction
 This project aims to develop an artificial intelligence model for detecting scoliosis from spinal X-ray images. Scoliosis is a medical condition characterized by abnormal curvature of the spine, and early detection is essential for effective treatment. Manual diagnosis by radiologists can be subjective and time-consuming.  
