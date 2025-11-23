@@ -31,6 +31,9 @@ These predicted class indices are then compared with the true labels to compute 
 
 
 # Results
+Accuracy and loss through epoches:
+<img width="2091" height="793" alt="image" src="https://github.com/user-attachments/assets/0770b369-7fa2-48f5-912e-6dd1060bb79a" />
+
 On the unseen test dataset, the model achieved the following metrics:
   Accuracy: 95%
   Precision (Normal / Scoliosis): 1.00 / 0.94
